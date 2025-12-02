@@ -1,1 +1,5 @@
 /node_modules
+
+# Generated slides (built in CI/CD pipeline)
+slides.html
+slides.pdf
